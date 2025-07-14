@@ -54,3 +54,27 @@ nav ul {
     flex-wrap: wrap;
     align-items: center;
 }
+
+
+/* 
+==================================
+About Section Styles
+==================================
+*/
+.about {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px 0;
+}
+.about h2 {
+    margin-bottom: 10px;
+}
+.about p {
+    margin-bottom: 10px;
+}
+/*
+==================================
+Skills Section Styles
+==================================
+*/
