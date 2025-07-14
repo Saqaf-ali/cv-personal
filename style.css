@@ -9,3 +9,48 @@ body {
     line-height: 1.6;
     color: #333;
 }
+
+
+/* 
+
+*/
+ul {
+    list-style: none;
+}
+
+ a {
+    color: #fff;
+    text-decoration: none;
+    transition: 1.5s ease-in-out;
+    animation-delay: 1s;
+}
+
+a:hover{
+    color: rgb(9, 154, 72);
+    scale: 1;
+}
+
+a:visited {
+    color: rgb(9, 154, 72);;
+}
+
+/* 
+==================================
+Navigation Styles
+*/
+nav {
+    background: #444;
+    color: #fff;
+    padding: 10px 0;
+    margin-bottom: 2rem;
+}
+
+
+
+nav ul {
+     display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
